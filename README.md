@@ -6,10 +6,10 @@ Welcome to the README file for the Admin Dashboard project built with Next.js. T
 
 This project is an admin dashboard built using Next.js, a React framework. It includes various features commonly found in admin dashboards such as user management, data visualization, and analytics.
 
-![Dashboard Preview]('./assets/next1.PNG')
-![Add User Page Preview]('./assets/next4.PNG')
-![Users Page Preview]('./assets/next2.PNG')
-![Products Page Preview]('./assets/next3.PNG')
+![Dashboard Preview](./assets/next1.PNG)
+![Add User Page Preview](./assets/next4.PNG)
+![Users Page Preview](./assets/next2.PNG)
+![Products Page Preview](./assets/next3.PNG)
 *Screenshot of the Admin Dashboard*
 
 ## Features
