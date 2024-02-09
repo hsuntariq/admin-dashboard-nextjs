@@ -1,7 +1,10 @@
+import { connectDB } from '@/app/lib/utils/connection'
+import { fetchData } from '@/app/lib/utils/data'
 import React from 'react'
 import { FaUser } from 'react-icons/fa'
 
-const Transactions = () => {
+const Transactions = async () => {
+
     return (
         <>
             <div className="bg-[#192237] w-full p-3 rounded-lg">
